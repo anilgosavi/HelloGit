@@ -7,6 +7,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Simple Change to add an error;
         }
     }
 }
